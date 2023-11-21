@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700502322 source:c:\probleme informatica\pb478(2)\main.cpp
+	<iostream>
+	<cstring>
+

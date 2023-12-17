@@ -1,0 +1,3 @@
+C:/Users/andre/CLionProjects/504/cmake-build-debug/CMakeFiles/504.dir
+C:/Users/andre/CLionProjects/504/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/CLionProjects/504/cmake-build-debug/CMakeFiles/rebuild_cache.dir

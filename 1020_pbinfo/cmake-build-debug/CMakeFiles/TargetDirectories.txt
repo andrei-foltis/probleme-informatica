@@ -1,0 +1,3 @@
+C:/Users/andre/CLionProjects/1020_pbinfo/cmake-build-debug/CMakeFiles/1020_pbinfo.dir
+C:/Users/andre/CLionProjects/1020_pbinfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/CLionProjects/1020_pbinfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

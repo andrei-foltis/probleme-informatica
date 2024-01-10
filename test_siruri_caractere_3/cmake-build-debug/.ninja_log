@@ -1,0 +1,21 @@
+# ninja log v5
+0	579	7245077957373260	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+581	716	7245077958682307	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+3	496	7245080870953139	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+496	586	7245080871814637	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+2	322	7245082029702616	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+323	427	7245082030714385	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+3	331	7245085173259762	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+331	414	7245085174051691	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+4	354	7245087410403156	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+355	454	7245087411383317	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+4	377	7245089680549627	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+378	497	7245089681497873	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+4	870	7245090135398036	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+870	960	7245090136283273	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+2	411	7245090237622628	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+412	491	7245090238374035	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+2	351	7245092704258832	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+352	433	7245092705033686	test_siruri_caractere_3.exe	31e5d10cd7f4cb28
+3	364	7248583270876677	CMakeFiles/test_siruri_caractere_3.dir/main.cpp.obj	7f89f636ffbb0bb0
+365	471	7248583271926718	test_siruri_caractere_3.exe	31e5d10cd7f4cb28

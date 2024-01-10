@@ -1,0 +1,3 @@
+C:/Users/andre/CLionProjects/test_hanoi/cmake-build-debug/CMakeFiles/test_hanoi.dir
+C:/Users/andre/CLionProjects/test_hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/CLionProjects/test_hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

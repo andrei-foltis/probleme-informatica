@@ -1,0 +1,9 @@
+# ninja log v5
+1	429	7245055549080008	CMakeFiles/test_siruri_2.dir/main.cpp.obj	cd601c2cb6190aa7
+431	588	7245055550648357	test_siruri_2.exe	2fcf8b22e2f48115
+4	507	7245058879075409	CMakeFiles/test_siruri_2.dir/main.cpp.obj	cd601c2cb6190aa7
+507	677	7245058880749726	test_siruri_2.exe	2fcf8b22e2f48115
+2	336	7245059604902674	CMakeFiles/test_siruri_2.dir/main.cpp.obj	cd601c2cb6190aa7
+336	450	7245059606004323	test_siruri_2.exe	2fcf8b22e2f48115
+2	333	7245059985581916	CMakeFiles/test_siruri_2.dir/main.cpp.obj	cd601c2cb6190aa7
+334	427	7245059986484530	test_siruri_2.exe	2fcf8b22e2f48115
